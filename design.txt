@@ -10,6 +10,7 @@ data mumber (private)
     QLabel * cur_time;
     QLabel * cur_state;
     int play_index;
+function mumber (private)
     void play();
 
 function mumber (private slots)
