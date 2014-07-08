@@ -6,6 +6,7 @@
  * 1. Can't get file description from metadata or some where else
  * 2. Play the next by default not configureable
  * 3. Haven't configured the form style
+ * 4. No lrc display
  */
 #include "mplayer.h"
 #include "ui_mplayer.h"
