@@ -1,8 +1,24 @@
-QT QMediaplayer example
-=======
+##小学期实践
+___
 
-Qt5 
+使用Qt界面技术配合C++完成简单的mp3播放器前端实现
 
-open with *.pro 
-and configure it with special kit
-enjoy my work
+开发平台
+:  Ubuntu 12.04
+
+使用语言
+: C++
+
+使用解码库
+: Qt自带QMediaplayer
+
+完成功能    
+
++ 播放音乐
++ 播放模式（乱序、顺序、单曲）
++ 播放列表持久化
+
+可移植性
+: 在Android平板 nuxus7(2013) 测试移植基本功能达成
+
+
